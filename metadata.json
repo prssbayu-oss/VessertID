@@ -1,0 +1,6 @@
+{
+  "name": "Template to Internal Code Visualizer",
+  "description": "Panduan interaktif dan alat analisis adaptasi boilerplate: memahami transformasi kode contoh menjadi sistem internal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
